@@ -4628,6 +4628,13 @@
                         "title": "Windows 11 （24H2）LTSC长期服务版下载！被曝光的版本号 Build 26100 – 零度解说",
                         "icon": "https://logo.clearbit.com/www.freedidi.com",
                         "url": "https://www.freedidi.com/11998.html"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1726756603978,
+                        "title": "下载 Windows / Office |马斯",
+                        "icon": "https://logo.clearbit.com/massgrave.dev",
+                        "url": "https://massgrave.dev/genuine-installation-media"
                       }
                     ]
                   },
@@ -5835,31 +5842,10 @@
                       },
                       {
                         "type": "link",
-                        "addDate": 1713529581694,
-                        "title": "必应中的 Microsoft Copilot",
-                        "icon": "https://logo.clearbit.com/bing.kevinlidk.cn",
-                        "url": "https://bing.kevinlidk.cn/"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1713529670231,
-                        "title": "必应中的 Microsoft Copilot",
-                        "icon": "https://logo.clearbit.com/bingai.kevinlidk.cn",
-                        "url": "https://bingai.kevinlidk.cn/"
-                      },
-                      {
-                        "type": "link",
                         "addDate": 1693232494219,
                         "title": "Bing AI(可用)",
                         "icon": "https://logo.clearbit.com/kevinli0628-bingo.hf.space",
                         "url": "https://kevinli0628-bingo.hf.space/"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1693239079607,
-                        "title": "Bing AI",
-                        "icon": "https://logo.clearbit.com/bingo.kevinlidk.cn",
-                        "url": "https://bingo.kevinlidk.cn/"
                       }
                     ]
                   },
@@ -5868,20 +5854,6 @@
                     "addDate": 1694888330821,
                     "title": "自建GhatGPT",
                     "children": [
-                      {
-                        "type": "link",
-                        "addDate": 1694888366575,
-                        "title": "pandora.kevinlidk.cn",
-                        "icon": "https://logo.clearbit.com/pandora.kevinlidk.cn",
-                        "url": "https://pandora.kevinlidk.cn/"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1694884129412,
-                        "title": "ChatGPT with Plugins",
-                        "icon": "https://logo.clearbit.com/gpt4.kevinlidk.cn",
-                        "url": "https://gpt4.kevinlidk.cn/"
-                      },
                       {
                         "type": "link",
                         "addDate": 1723359999454,
@@ -6077,13 +6049,6 @@
                         "title": "Claude 2 AI：全球范围内可用 | 支持Claude 2.1 API",
                         "icon": "https://logo.clearbit.com/www.finechat.ai",
                         "url": "https://www.finechat.ai/zh-CN"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1703262564651,
-                        "title": "ChatGPT with Plugins",
-                        "icon": "https://logo.clearbit.com/gpt4.kevinlidk.cn",
-                        "url": "https://gpt4.kevinlidk.cn/zh"
                       },
                       {
                         "type": "link",
@@ -9815,6 +9780,20 @@
                         "title": "小小布吉岛～",
                         "icon": "https://logo.clearbit.com/app.bujidao.org",
                         "url": "https://app.bujidao.org/login"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1726674259754,
+                        "title": "登录页 | snack",
+                        "icon": "https://logo.clearbit.com/v2b.guagua.info",
+                        "url": "https://v2b.guagua.info/#/login"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1726674278821,
+                        "title": "自建免费机场(已接入linuxdo) - 跳蚤市场 / 跳蚤市场, Lv1 - LINUX DO",
+                        "icon": "https://logo.clearbit.com/linux.do",
+                        "url": "https://linux.do/t/topic/207682"
                       },
                       {
                         "type": "link",
@@ -15534,307 +15513,6 @@
             "children": [
               {
                 "type": "folder",
-                "addDate": 1668765411848,
-                "title": "My Blog",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1703681013681,
-                    "title": "Kevinlidk - 但行好事, 莫问前程",
-                    "icon": "https://logo.clearbit.com/blog.kevinlidk.cn",
-                    "url": "https://blog.kevinlidk.cn/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1703355006619,
-                    "title": "Kevinlidk.cn | 但行好事,莫问前程",
-                    "icon": "https://logo.clearbit.com/blog2.kevinlidk.cn",
-                    "url": "https://blog2.kevinlidk.cn/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1669098493161,
-                    "title": "Kevin Li’ Blog",
-                    "icon": "https://logo.clearbit.com/kevinlidk.gitee.io",
-                    "url": "https://kevinlidk.gitee.io/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1668765547653,
-                    "title": "站点标题",
-                    "icon": "https://logo.clearbit.com/kevinlidk.wordpress.com",
-                    "url": "https://kevinlidk.wordpress.com/"
-                  },
-                  {
-                    "type": "folder",
-                    "addDate": 1703955666769,
-                    "title": "Blog插件\\服务类",
-                    "children": [
-                      {
-                        "type": "link",
-                        "addDate": 1703677067630,
-                        "title": "HCLonely/hexo-bilibili-bangumi: hexo 番剧页面插件，可选数据源：Bilibili, Bangumi",
-                        "icon": "https://logo.clearbit.com/github.com",
-                        "url": "https://github.com/HCLonely/hexo-bilibili-bangumi"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1703677078462,
-                        "title": "huiwang/hexo-baidu-url-submit: Push Hexo blog update to baidu search engine for proactive indexing / 主动推送Hexo博客新链接至百度搜索引擎，解决百度爬虫被禁止访问的问题，提升网站收录质量和速度。",
-                        "icon": "https://logo.clearbit.com/github.com",
-                        "url": "https://github.com/huiwang/hexo-baidu-url-submit"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1667749210482,
-                        "title": "主页 | Kevinlidk@outlook.com's Account | Cloudflare",
-                        "icon": "https://logo.clearbit.com/dash.cloudflare.com",
-                        "url": "https://dash.cloudflare.com/7cebadafab06dcb169b1ef7565a86c3f"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1648840216530,
-                        "title": "GitHub: Where the world builds software · GitHub",
-                        "icon": "https://logo.clearbit.com/github.com",
-                        "url": "https://github.com/"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1703355673422,
-                        "title": "notion-next – Deployments – Vercel",
-                        "icon": "https://logo.clearbit.com/vercel.com",
-                        "url": "https://vercel.com/kevinlidk/notion-next/deployments"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1703956702121,
-                        "title": "hexo-tag-aplayer/docs/README-zh_cn.md at master · MoePlayer/hexo-tag-aplayer",
-                        "icon": "https://logo.clearbit.com/github.com",
-                        "url": "https://github.com/MoePlayer/hexo-tag-aplayer/blob/master/docs/README-zh_cn.md"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1703963216846,
-                        "title": "hexo-helper-live2d/README.zh-CN.md at master · EYHN/hexo-helper-live2d",
-                        "icon": "https://logo.clearbit.com/github.com",
-                        "url": "https://github.com/EYHN/hexo-helper-live2d/blob/master/README.zh-CN.md"
-                      },
-                      {
-                        "type": "folder",
-                        "addDate": 1713109210990,
-                        "title": "在线图层\\图片编辑类",
-                        "children": [
-                          {
-                            "type": "link",
-                            "addDate": 1686551101737,
-                            "title": "iconfont-阿里巴巴矢量图标库",
-                            "icon": "https://logo.clearbit.com/www.iconfont.cn",
-                            "url": "https://www.iconfont.cn/"
-                          },
-                          {
-                            "type": "link",
-                            "addDate": 1704188012366,
-                            "title": "图片上传 - SM.MS - 简单的免费图片托管",
-                            "icon": "https://logo.clearbit.com/smms.app",
-                            "url": "https://smms.app/"
-                          },
-                          {
-                            "type": "link",
-                            "addDate": 1703968537257,
-                            "title": "我的图库",
-                            "icon": "https://logo.clearbit.com/7bu.top",
-                            "url": "https://7bu.top/user/images"
-                          },
-                          {
-                            "type": "link",
-                            "addDate": 1716564683724,
-                            "title": "Postimages — 免费图片托管 / 图片上传",
-                            "icon": "https://logo.clearbit.com/postimages.org",
-                            "url": "https://postimages.org/"
-                          },
-                          {
-                            "type": "link",
-                            "addDate": 1722185659134,
-                            "title": "图床-图片上传+管理",
-                            "icon": "https://logo.clearbit.com/molunerfinn.com",
-                            "url": "https://molunerfinn.com/PicGo/"
-                          },
-                          {
-                            "type": "link",
-                            "addDate": 1723964433044,
-                            "title": "Telegraph-Image|免费图床",
-                            "icon": "https://logo.clearbit.com/im.gurl.eu.org",
-                            "url": "https://im.gurl.eu.org/"
-                          },
-                          {
-                            "type": "link",
-                            "addDate": 1723964529426,
-                            "title": "tgState",
-                            "icon": "https://logo.clearbit.com/tgstate.vercel.app",
-                            "url": "https://tgstate.vercel.app/"
-                          },
-                          {
-                            "type": "link",
-                            "addDate": 1723964542137,
-                            "title": "图床",
-                            "icon": "https://logo.clearbit.com/img.131213.xyz",
-                            "url": "https://img.131213.xyz/"
-                          },
-                          {
-                            "type": "link",
-                            "addDate": 1723964591301,
-                            "title": "Sanyue ImgHub",
-                            "icon": "https://logo.clearbit.com/demo-cloudflare-imgbed.pages.dev",
-                            "url": "https://demo-cloudflare-imgbed.pages.dev/"
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1703264020549,
-                    "title": "Notion Blog | Table",
-                    "icon": "https://logo.clearbit.com/www.notion.so",
-                    "url": "https://www.notion.so/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1703256204311,
-                    "title": "Tangly Blog | NotionNext - 老唐博客",
-                    "icon": "https://logo.clearbit.com/www.tangly1024.com",
-                    "url": "https://www.tangly1024.com/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1703298292671,
-                    "title": "HEO主题 | NotionNext文档",
-                    "icon": "https://logo.clearbit.com/docs.tangly1024.com",
-                    "url": "https://docs.tangly1024.com/article/notionnext-heo"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1703397101868,
-                    "title": "安知鱼主题官方文档 | 一个简洁、美丽的静态hexo主题",
-                    "icon": "https://logo.clearbit.com/docs.anheyu.com",
-                    "url": "https://docs.anheyu.com/"
-                  },
-                  {
-                    "type": "folder",
-                    "addDate": 1703397483258,
-                    "title": "HEXO",
-                    "children": [
-                      {
-                        "type": "link",
-                        "addDate": 1703397487376,
-                        "title": "安知鱼 - 生活明朗 万物可爱",
-                        "icon": "https://logo.clearbit.com/blog.anheyu.com",
-                        "url": "https://blog.anheyu.com/"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1703297931479,
-                        "title": "张洪Heo - 分享设计与科技生活",
-                        "icon": "https://logo.clearbit.com/blog.zhheo.com",
-                        "url": "https://blog.zhheo.com/"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1703397695876,
-                        "title": "LAOGOU717 | 这里是一切的开始!",
-                        "icon": "https://logo.clearbit.com/laogou717.com",
-                        "url": "https://laogou717.com/"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1703397947262,
-                        "title": "爱加班的小刘 - 分享科技与生活",
-                        "icon": "https://logo.clearbit.com/www.xiaoliu.life",
-                        "url": "https://www.xiaoliu.life/"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1703492060799,
-                        "title": "程序员小航",
-                        "icon": "https://logo.clearbit.com/liuzhihang.com",
-                        "url": "https://liuzhihang.com/"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1703967284201,
-                        "title": "hexo-theme-Acrylic/Hexo-Theme-Acrylic: Acrylic-Promote 强势归来",
-                        "icon": "https://logo.clearbit.com/github.com",
-                        "url": "https://github.com/hexo-theme-Acrylic/hexo-theme-Acrylic"
-                      }
-                    ]
-                  },
-                  {
-                    "type": "folder",
-                    "addDate": 1703501059251,
-                    "title": "重组教程",
-                    "children": [
-                      {
-                        "type": "link",
-                        "addDate": 1704190351533,
-                        "title": "10.hexo自定义css，一图流方案_哔哩哔哩_bilibili",
-                        "icon": "https://logo.clearbit.com/www.bilibili.com",
-                        "url": "https://www.bilibili.com/video/BV1rT411w7gj/?p=10&spm_id_from=pageDriver"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1703501065913,
-                        "title": "butterfly 重装日记 | 安知鱼",
-                        "icon": "https://logo.clearbit.com/blog.anheyu.com",
-                        "url": "https://blog.anheyu.com/posts/sdxhu.html"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1703672749311,
-                        "title": "使用 Github Pages 和 Hexo 搭建自己的独立博客 | 安知鱼",
-                        "icon": "https://logo.clearbit.com/blog.anheyu.com",
-                        "url": "https://blog.anheyu.com/posts/ddae.html"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1703610234882,
-                        "title": "♪(^∇^*)欢迎肥来！使用 Github Action 自动部署 | 安知鱼",
-                        "icon": "https://logo.clearbit.com/blog.anheyu.com",
-                        "url": "https://blog.anheyu.com/posts/asdx.html#8de263278c3544d1bb346ddde61f93b6"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1703497623001,
-                        "title": "Butterfly 安裝文檔(一) 快速開始 | Butterfly",
-                        "icon": "https://logo.clearbit.com/butterfly.js.org",
-                        "url": "https://butterfly.js.org/posts/21cfbf15/"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1704179151425,
-                        "title": "Butterfly 安裝文檔(二) 主題頁面 | Butterfly",
-                        "icon": "https://logo.clearbit.com/butterfly.js.org",
-                        "url": "https://butterfly.js.org/posts/dc584b87/"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1705560357669,
-                        "title": "Butterfly 安裝文檔(三) 主題配置-1 | Butterfly",
-                        "icon": "https://logo.clearbit.com/butterfly.js.org",
-                        "url": "https://butterfly.js.org/posts/4aa8abbe/"
-                      }
-                    ]
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1723976379545,
-                    "title": "Kevinlidk - 但行好事, 莫问前程",
-                    "icon": "https://logo.clearbit.com/kevinlidk.github.io",
-                    "url": "https://kevinlidk.github.io/"
-                  }
-                ]
-              },
-              {
-                "type": "folder",
                 "addDate": 1667130656046,
                 "title": "Kevin Li",
                 "children": [
@@ -16880,6 +16558,27 @@
                     "title": "英国地址生成器 - 英国身份生成器 - 英国信用卡生成器",
                     "icon": "https://logo.clearbit.com/www.meiguodizhi.com",
                     "url": "https://www.meiguodizhi.com/uk-address"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1726674102051,
+                    "title": "Real Address Generator（真实地址生成器）",
+                    "icon": "https://logo.clearbit.com/realaddress.fuyiran.com",
+                    "url": "https://realaddress.fuyiran.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1726674555318,
+                    "title": "真实的美国和加拿大地址生成器",
+                    "icon": "https://logo.clearbit.com/us.chatgpt.org.uk",
+                    "url": "https://us.chatgpt.org.uk/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1726674649765,
+                    "title": "分享个能生成22个国家真实地址的生成器（可以用CF worker部署）（求Star）（2024.9.17根据大家的需求更新） - 资源荟萃 - LINUX DO",
+                    "icon": "https://logo.clearbit.com/linux.do",
+                    "url": "https://linux.do/t/topic/208185"
                   }
                 ]
               },
@@ -17003,6 +16702,41 @@
             "title": "浏览器内核检测",
             "icon": "https://logo.clearbit.com/www.ghxi.com",
             "url": "https://www.ghxi.com/llq"
+          },
+          {
+            "type": "folder",
+            "addDate": 1726673861291,
+            "title": "Github项目",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1726673878232,
+                "title": "太神奇了，浏览器收藏夹一键转成网站！",
+                "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+                "url": "https://mp.weixin.qq.com/s/xtsE37zzTWGLSt3oooH3aQ"
+              },
+              {
+                "type": "link",
+                "addDate": 1726758127606,
+                "title": "Pintree - 将您的书签导出到网站",
+                "icon": "https://logo.clearbit.com/pintree.io",
+                "url": "https://pintree.io/"
+              },
+              {
+                "type": "link",
+                "addDate": 1726673883653,
+                "title": "Pintree",
+                "icon": "https://logo.clearbit.com/app.pintree.io",
+                "url": "https://app.pintree.io/"
+              },
+              {
+                "type": "link",
+                "addDate": 1726674961153,
+                "title": "Adonis142857/Real-Address-Generator: An address generator for populating real addresses for China, USA, UK, Germany, France and 22 other countries.一个用于填充真实地址的地址生成器，可以生成中国，美国，英国，德国，法国等22个国家的真实地址",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/Adonis142857/Real-Address-Generator"
+              }
+            ]
           }
         ]
       },
@@ -23966,41 +23700,6 @@
       },
       {
         "type": "folder",
-        "addDate": 1717348479466,
-        "title": "公众号类",
-        "children": [
-          {
-            "type": "link",
-            "addDate": 1717328117484,
-            "title": "微信公众平台",
-            "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
-            "url": "https://mp.weixin.qq.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1665070324995,
-            "title": "夸克网盘",
-            "icon": "https://logo.clearbit.com/pan.quark.cn",
-            "url": "https://pan.quark.cn/list#/list/all"
-          },
-          {
-            "type": "link",
-            "addDate": 1717335439582,
-            "title": "下载 Windows Server 2025 新壁纸 Windows 11 - Pureinfotech",
-            "icon": "https://logo.clearbit.com/pureinfotech.com",
-            "url": "https://pureinfotech.com/download-windows-server-2025-new-wallpapers-windows-11/"
-          },
-          {
-            "type": "link",
-            "addDate": 1717467504920,
-            "title": "我的家庭服务器之旅-从树莓派到Ryzen",
-            "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
-            "url": "https://mp.weixin.qq.com/s/MySoKnnIIm9dNv27KaJEog"
-          }
-        ]
-      },
-      {
-        "type": "folder",
         "addDate": 1718330762455,
         "title": "阿里云",
         "children": [
@@ -24911,6 +24610,13 @@
                 "title": "如何实现已审核状态下字段可修改",
                 "icon": "https://logo.clearbit.com/vip.kingdee.com",
                 "url": "https://vip.kingdee.com/questions/135435488785434930/answers/135435505780754688?productLineId=1&isKnowledge=2&lang=zh-CN"
+              },
+              {
+                "type": "link",
+                "addDate": 1726743187362,
+                "title": "采购申请单默认取建议供应商税率",
+                "icon": "https://logo.clearbit.com/vip.kingdee.com",
+                "url": "https://vip.kingdee.com/knowledge/specialDetail/345949812111568128?category=345950151916993792&id=7409&productLineId=1&lang=zh-CN"
               }
             ]
           },
@@ -25037,57 +24743,484 @@
       },
       {
         "type": "folder",
-        "addDate": 1721483201399,
-        "title": "自建Docker",
+        "addDate": 1726763482270,
+        "title": "Self-built",
         "children": [
           {
-            "type": "link",
-            "addDate": 1723445552225,
-            "title": "Open WebUI",
-            "icon": "https://logo.clearbit.com/121.15.211.188",
-            "url": "http://121.15.211.188:3000/"
+            "type": "folder",
+            "addDate": 1717348479466,
+            "title": "公众号类",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1717328117484,
+                "title": "微信公众平台",
+                "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+                "url": "https://mp.weixin.qq.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1665070324995,
+                "title": "夸克网盘",
+                "icon": "https://logo.clearbit.com/pan.quark.cn",
+                "url": "https://pan.quark.cn/list#/list/all"
+              },
+              {
+                "type": "link",
+                "addDate": 1717335439582,
+                "title": "下载 Windows Server 2025 新壁纸 Windows 11 - Pureinfotech",
+                "icon": "https://logo.clearbit.com/pureinfotech.com",
+                "url": "https://pureinfotech.com/download-windows-server-2025-new-wallpapers-windows-11/"
+              },
+              {
+                "type": "link",
+                "addDate": 1717467504920,
+                "title": "我的家庭服务器之旅-从树莓派到Ryzen",
+                "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+                "url": "https://mp.weixin.qq.com/s/MySoKnnIIm9dNv27KaJEog"
+              }
+            ]
           },
           {
-            "type": "link",
-            "addDate": 1723455115407,
-            "title": "主页 | NetBox",
-            "icon": "https://logo.clearbit.com/121.15.211.188",
-            "url": "http://121.15.211.188:8001/"
+            "type": "folder",
+            "addDate": 1721483201399,
+            "title": "自建Docker",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1723445552225,
+                "title": "Open WebUI",
+                "icon": "https://logo.clearbit.com/121.15.211.188",
+                "url": "http://121.15.211.188:3000/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723455115407,
+                "title": "主页 | NetBox",
+                "icon": "https://logo.clearbit.com/121.15.211.188",
+                "url": "http://121.15.211.188:8001/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723610075413,
+                "title": "欢迎使用 LobeChat：个人 LLM 效能工具，给自己一个更聪明的大脑 · LobeChat",
+                "icon": "https://logo.clearbit.com/121.15.211.188",
+                "url": "http://121.15.211.188:3210/welcome"
+              },
+              {
+                "type": "link",
+                "addDate": 1723651783281,
+                "title": "121.15.211.188:11434",
+                "icon": "https://logo.clearbit.com/121.15.211.188",
+                "url": "http://121.15.211.188:11434/"
+              },
+              {
+                "type": "link",
+                "addDate": 1724420563259,
+                "title": "Stirling PDF",
+                "icon": "https://logo.clearbit.com/121.15.211.188",
+                "url": "http://121.15.211.188:9090/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723978122271,
+                "title": "主页 | AList",
+                "icon": "https://logo.clearbit.com/121.15.211.188",
+                "url": "http://121.15.211.188:5244/"
+              },
+              {
+                "type": "link",
+                "addDate": 1726401041386,
+                "title": "HivisionIDPhotos",
+                "icon": "https://logo.clearbit.com/121.15.211.188",
+                "url": "http://121.15.211.188:7860/"
+              }
+            ]
           },
           {
-            "type": "link",
-            "addDate": 1723610075413,
-            "title": "欢迎使用 LobeChat：个人 LLM 效能工具，给自己一个更聪明的大脑 · LobeChat",
-            "icon": "https://logo.clearbit.com/121.15.211.188",
-            "url": "http://121.15.211.188:3210/welcome"
+            "type": "folder",
+            "addDate": 1668765411848,
+            "title": "My Blog",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1703681013681,
+                "title": "Kevinlidk - 但行好事, 莫问前程",
+                "icon": "https://logo.clearbit.com/blog.kevinlidk.cn",
+                "url": "https://blog.kevinlidk.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1703355006619,
+                "title": "Kevinlidk.cn | 但行好事,莫问前程",
+                "icon": "https://logo.clearbit.com/blog2.kevinlidk.cn",
+                "url": "https://blog2.kevinlidk.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1669098493161,
+                "title": "Kevin Li’ Blog",
+                "icon": "https://logo.clearbit.com/kevinlidk.gitee.io",
+                "url": "https://kevinlidk.gitee.io/"
+              },
+              {
+                "type": "link",
+                "addDate": 1668765547653,
+                "title": "站点标题",
+                "icon": "https://logo.clearbit.com/kevinlidk.wordpress.com",
+                "url": "https://kevinlidk.wordpress.com/"
+              },
+              {
+                "type": "folder",
+                "addDate": 1703955666769,
+                "title": "Blog插件\\服务类",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1703677067630,
+                    "title": "HCLonely/hexo-bilibili-bangumi: hexo 番剧页面插件，可选数据源：Bilibili, Bangumi",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/HCLonely/hexo-bilibili-bangumi"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1703677078462,
+                    "title": "huiwang/hexo-baidu-url-submit: Push Hexo blog update to baidu search engine for proactive indexing / 主动推送Hexo博客新链接至百度搜索引擎，解决百度爬虫被禁止访问的问题，提升网站收录质量和速度。",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/huiwang/hexo-baidu-url-submit"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1667749210482,
+                    "title": "主页 | Kevinlidk@outlook.com's Account | Cloudflare",
+                    "icon": "https://logo.clearbit.com/dash.cloudflare.com",
+                    "url": "https://dash.cloudflare.com/7cebadafab06dcb169b1ef7565a86c3f"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1648840216530,
+                    "title": "GitHub: Where the world builds software · GitHub",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1703355673422,
+                    "title": "notion-next – Deployments – Vercel",
+                    "icon": "https://logo.clearbit.com/vercel.com",
+                    "url": "https://vercel.com/kevinlidk/notion-next/deployments"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1703956702121,
+                    "title": "hexo-tag-aplayer/docs/README-zh_cn.md at master · MoePlayer/hexo-tag-aplayer",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/MoePlayer/hexo-tag-aplayer/blob/master/docs/README-zh_cn.md"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1703963216846,
+                    "title": "hexo-helper-live2d/README.zh-CN.md at master · EYHN/hexo-helper-live2d",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/EYHN/hexo-helper-live2d/blob/master/README.zh-CN.md"
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1713109210990,
+                    "title": "在线图层\\图片编辑类",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1686551101737,
+                        "title": "iconfont-阿里巴巴矢量图标库",
+                        "icon": "https://logo.clearbit.com/www.iconfont.cn",
+                        "url": "https://www.iconfont.cn/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1704188012366,
+                        "title": "图片上传 - SM.MS - 简单的免费图片托管",
+                        "icon": "https://logo.clearbit.com/smms.app",
+                        "url": "https://smms.app/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1703968537257,
+                        "title": "我的图库",
+                        "icon": "https://logo.clearbit.com/7bu.top",
+                        "url": "https://7bu.top/user/images"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1716564683724,
+                        "title": "Postimages — 免费图片托管 / 图片上传",
+                        "icon": "https://logo.clearbit.com/postimages.org",
+                        "url": "https://postimages.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1722185659134,
+                        "title": "图床-图片上传+管理",
+                        "icon": "https://logo.clearbit.com/molunerfinn.com",
+                        "url": "https://molunerfinn.com/PicGo/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1723964433044,
+                        "title": "Telegraph-Image|免费图床",
+                        "icon": "https://logo.clearbit.com/im.gurl.eu.org",
+                        "url": "https://im.gurl.eu.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1723964529426,
+                        "title": "tgState",
+                        "icon": "https://logo.clearbit.com/tgstate.vercel.app",
+                        "url": "https://tgstate.vercel.app/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1723964542137,
+                        "title": "图床",
+                        "icon": "https://logo.clearbit.com/img.131213.xyz",
+                        "url": "https://img.131213.xyz/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1723964591301,
+                        "title": "Sanyue ImgHub",
+                        "icon": "https://logo.clearbit.com/demo-cloudflare-imgbed.pages.dev",
+                        "url": "https://demo-cloudflare-imgbed.pages.dev/"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "link",
+                "addDate": 1703264020549,
+                "title": "Notion Blog | Table",
+                "icon": "https://logo.clearbit.com/www.notion.so",
+                "url": "https://www.notion.so/"
+              },
+              {
+                "type": "link",
+                "addDate": 1703256204311,
+                "title": "Tangly Blog | NotionNext - 老唐博客",
+                "icon": "https://logo.clearbit.com/www.tangly1024.com",
+                "url": "https://www.tangly1024.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1703298292671,
+                "title": "HEO主题 | NotionNext文档",
+                "icon": "https://logo.clearbit.com/docs.tangly1024.com",
+                "url": "https://docs.tangly1024.com/article/notionnext-heo"
+              },
+              {
+                "type": "link",
+                "addDate": 1703397101868,
+                "title": "安知鱼主题官方文档 | 一个简洁、美丽的静态hexo主题",
+                "icon": "https://logo.clearbit.com/docs.anheyu.com",
+                "url": "https://docs.anheyu.com/"
+              },
+              {
+                "type": "folder",
+                "addDate": 1703397483258,
+                "title": "HEXO",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1703397487376,
+                    "title": "安知鱼 - 生活明朗 万物可爱",
+                    "icon": "https://logo.clearbit.com/blog.anheyu.com",
+                    "url": "https://blog.anheyu.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1703297931479,
+                    "title": "张洪Heo - 分享设计与科技生活",
+                    "icon": "https://logo.clearbit.com/blog.zhheo.com",
+                    "url": "https://blog.zhheo.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1703397695876,
+                    "title": "LAOGOU717 | 这里是一切的开始!",
+                    "icon": "https://logo.clearbit.com/laogou717.com",
+                    "url": "https://laogou717.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1703397947262,
+                    "title": "爱加班的小刘 - 分享科技与生活",
+                    "icon": "https://logo.clearbit.com/www.xiaoliu.life",
+                    "url": "https://www.xiaoliu.life/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1703492060799,
+                    "title": "程序员小航",
+                    "icon": "https://logo.clearbit.com/liuzhihang.com",
+                    "url": "https://liuzhihang.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1703967284201,
+                    "title": "hexo-theme-Acrylic/Hexo-Theme-Acrylic: Acrylic-Promote 强势归来",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/hexo-theme-Acrylic/hexo-theme-Acrylic"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1703501059251,
+                "title": "重组教程",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1704190351533,
+                    "title": "10.hexo自定义css，一图流方案_哔哩哔哩_bilibili",
+                    "icon": "https://logo.clearbit.com/www.bilibili.com",
+                    "url": "https://www.bilibili.com/video/BV1rT411w7gj/?p=10&spm_id_from=pageDriver"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1703501065913,
+                    "title": "butterfly 重装日记 | 安知鱼",
+                    "icon": "https://logo.clearbit.com/blog.anheyu.com",
+                    "url": "https://blog.anheyu.com/posts/sdxhu.html"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1703672749311,
+                    "title": "使用 Github Pages 和 Hexo 搭建自己的独立博客 | 安知鱼",
+                    "icon": "https://logo.clearbit.com/blog.anheyu.com",
+                    "url": "https://blog.anheyu.com/posts/ddae.html"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1703610234882,
+                    "title": "♪(^∇^*)欢迎肥来！使用 Github Action 自动部署 | 安知鱼",
+                    "icon": "https://logo.clearbit.com/blog.anheyu.com",
+                    "url": "https://blog.anheyu.com/posts/asdx.html#8de263278c3544d1bb346ddde61f93b6"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1703497623001,
+                    "title": "Butterfly 安裝文檔(一) 快速開始 | Butterfly",
+                    "icon": "https://logo.clearbit.com/butterfly.js.org",
+                    "url": "https://butterfly.js.org/posts/21cfbf15/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1704179151425,
+                    "title": "Butterfly 安裝文檔(二) 主題頁面 | Butterfly",
+                    "icon": "https://logo.clearbit.com/butterfly.js.org",
+                    "url": "https://butterfly.js.org/posts/dc584b87/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1705560357669,
+                    "title": "Butterfly 安裝文檔(三) 主題配置-1 | Butterfly",
+                    "icon": "https://logo.clearbit.com/butterfly.js.org",
+                    "url": "https://butterfly.js.org/posts/4aa8abbe/"
+                  }
+                ]
+              },
+              {
+                "type": "link",
+                "addDate": 1723976379545,
+                "title": "Kevinlidk - 但行好事, 莫问前程",
+                "icon": "https://logo.clearbit.com/kevinlidk.github.io",
+                "url": "https://kevinlidk.github.io/"
+              },
+              {
+                "type": "link",
+                "addDate": 1726760975098,
+                "title": "Kevinlidk - 但行好事, 莫问前程",
+                "icon": "https://logo.clearbit.com/kevinlidk.us.kg",
+                "url": "https://kevinlidk.us.kg/"
+              }
+            ]
           },
           {
-            "type": "link",
-            "addDate": 1723651783281,
-            "title": "121.15.211.188:11434",
-            "icon": "https://logo.clearbit.com/121.15.211.188",
-            "url": "http://121.15.211.188:11434/"
+            "type": "folder",
+            "addDate": 1726763649184,
+            "title": "Kevinlidk.cn",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1713529581694,
+                "title": "必应中的 Microsoft Copilot",
+                "icon": "https://logo.clearbit.com/bing.kevinlidk.cn",
+                "url": "https://bing.kevinlidk.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1713529670231,
+                "title": "必应中的 Microsoft Copilot",
+                "icon": "https://logo.clearbit.com/bingai.kevinlidk.cn",
+                "url": "https://bingai.kevinlidk.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1693239079607,
+                "title": "Bing AI",
+                "icon": "https://logo.clearbit.com/bingo.kevinlidk.cn",
+                "url": "https://bingo.kevinlidk.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1694888366575,
+                "title": "pandora.kevinlidk.cn",
+                "icon": "https://logo.clearbit.com/pandora.kevinlidk.cn",
+                "url": "https://pandora.kevinlidk.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1694884129412,
+                "title": "ChatGPT with Plugins",
+                "icon": "https://logo.clearbit.com/gpt4.kevinlidk.cn",
+                "url": "https://gpt4.kevinlidk.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1726764085757,
+                "title": "Chat GPT介绍",
+                "icon": "https://logo.clearbit.com/gamma.kevinlidk.cn",
+                "url": "https://gamma.kevinlidk.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1726763401978,
+                "title": "Pintree",
+                "icon": "https://logo.clearbit.com/pintree.kevinlidk.cn",
+                "url": "https://pintree.kevinlidk.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1726676765380,
+                "title": "真实地址生成器（realaddress.kevinlidk.cn）",
+                "icon": "https://logo.clearbit.com/realaddress.kevinlidk.cn",
+                "url": "https://realaddress.kevinlidk.cn/"
+              }
+            ]
           },
           {
-            "type": "link",
-            "addDate": 1724420563259,
-            "title": "Stirling PDF",
-            "icon": "https://logo.clearbit.com/121.15.211.188",
-            "url": "http://121.15.211.188:9090/"
-          },
-          {
-            "type": "link",
-            "addDate": 1723978122271,
-            "title": "主页 | AList",
-            "icon": "https://logo.clearbit.com/121.15.211.188",
-            "url": "http://121.15.211.188:5244/"
-          },
-          {
-            "type": "link",
-            "addDate": 1726401041386,
-            "title": "HivisionIDPhotos",
-            "icon": "https://logo.clearbit.com/121.15.211.188",
-            "url": "http://121.15.211.188:7860/"
+            "type": "folder",
+            "addDate": 1726763682187,
+            "title": "Kevinlidk.us.kg",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1726761459876,
+                "title": "Pintree",
+                "icon": "https://logo.clearbit.com/kevinlidk.us.kg",
+                "url": "https://kevinlidk.us.kg/pintree/"
+              }
+            ]
           }
         ]
       },
@@ -25160,13 +25293,6 @@
         "title": "Bard",
         "icon": "https://logo.clearbit.com/bard.google.com",
         "url": "https://bard.google.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1700369469066,
-        "title": "pandora.kevinlidk.cn/auth/login",
-        "icon": "https://logo.clearbit.com/pandora.kevinlidk.cn",
-        "url": "https://pandora.kevinlidk.cn/auth/login"
       },
       {
         "type": "link",
