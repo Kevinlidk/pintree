@@ -211,6 +211,13 @@
             "title": "Power Apps | 主页",
             "icon": "https://logo.clearbit.com/make.powerapps.com",
             "url": "https://make.powerapps.com/environments/Default-b7aa4308-bf33-414f-9971-6e0c972cbe5d/home"
+          },
+          {
+            "type": "link",
+            "addDate": 1726802818870,
+            "title": "我的帐户",
+            "icon": "https://logo.clearbit.com/portal.office.com",
+            "url": "https://portal.office.com/account#home"
           }
         ]
       },
@@ -1728,41 +1735,6 @@
                     "url": "https://www.canon.com.cn/supports/service.html"
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1713514791677,
-            "title": "Kingdee Cloud",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1705052612108,
-                "title": "企业账号中心-我的企业",
-                "icon": "https://logo.clearbit.com/account.kdcloud.com",
-                "url": "https://account.kdcloud.com/main"
-              },
-              {
-                "type": "link",
-                "addDate": 1634875651622,
-                "title": "金蝶云平台 - 企业平台",
-                "icon": "https://logo.clearbit.com/cloud.kingdee.com",
-                "url": "https://cloud.kingdee.com/qy/product/proInfo?tid=823549&prod_inst_code=1446951986abbf7ec9a468ae9dfaffee"
-              },
-              {
-                "type": "link",
-                "addDate": 1711013731270,
-                "title": "金蝶云星瀚",
-                "icon": "https://logo.clearbit.com/cosmic-pro.piaozone.com",
-                "url": "https://cosmic-pro.piaozone.com/ierp/?userId=Guest&formId=new_activate_order_link&query_type=2"
-              },
-              {
-                "type": "link",
-                "addDate": 1713514796506,
-                "title": "金蝶云星空开放平台",
-                "icon": "https://logo.clearbit.com/open.kingdee.com",
-                "url": "https://open.kingdee.com/K3Cloud/Open/home"
               }
             ]
           },
@@ -5895,13 +5867,6 @@
                         "title": "Dashboard",
                         "icon": "https://logo.clearbit.com/gitpod.io",
                         "url": "https://gitpod.io/workspaces"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1700648980901,
-                        "title": "Docker Hub",
-                        "icon": "https://logo.clearbit.com/hub.docker.com",
-                        "url": "https://hub.docker.com/"
                       },
                       {
                         "type": "link",
@@ -16152,6 +16117,13 @@
                     "title": "Source Insight 编程编辑器和代码浏览器",
                     "icon": "https://logo.clearbit.com/www.sourceinsight.com",
                     "url": "https://www.sourceinsight.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1726846999114,
+                    "title": "Ruby 程序设计语言官方网站",
+                    "icon": "https://logo.clearbit.com/www.ruby-lang.org",
+                    "url": "https://www.ruby-lang.org/zh_cn/"
                   }
                 ]
               },
@@ -16672,6 +16644,13 @@
                     "url": "https://www.ygxz.in/dairy/3114/"
                   }
                 ]
+              },
+              {
+                "type": "link",
+                "addDate": 1726847180885,
+                "title": "Jekyll • 简单、博客感知的静态网站 |将您的纯文本转换为静态网站和博客",
+                "icon": "https://logo.clearbit.com/jekyllrb.com",
+                "url": "https://jekyllrb.com/"
               }
             ]
           },
@@ -16710,6 +16689,13 @@
             "children": [
               {
                 "type": "link",
+                "addDate": 1726830288686,
+                "title": "Pintree-io/pintree：一个直观的工具，用于管理本地书签并将其导出到可共享的网站。",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/Pintree-io/pintree"
+              },
+              {
+                "type": "link",
                 "addDate": 1726673878232,
                 "title": "太神奇了，浏览器收藏夹一键转成网站！",
                 "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
@@ -16731,10 +16717,150 @@
               },
               {
                 "type": "link",
-                "addDate": 1726674961153,
-                "title": "Adonis142857/Real-Address-Generator: An address generator for populating real addresses for China, USA, UK, Germany, France and 22 other countries.一个用于填充真实地址的地址生成器，可以生成中国，美国，英国，德国，法国等22个国家的真实地址",
+                "addDate": 1726830224893,
+                "title": "Adonis142857/Real-Address-Generator： 一个用于填充中国、美国、英国、德国、法国和其他 22 个国家/地区的真实地址的地址生成器。",
                 "icon": "https://logo.clearbit.com/github.com",
                 "url": "https://github.com/Adonis142857/Real-Address-Generator"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1726849823251,
+            "title": "Docker项目",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1726849848789,
+                "title": "Docker Hub 容器镜像库 |应用程序容器化",
+                "icon": "https://logo.clearbit.com/hub.docker.com",
+                "url": "https://hub.docker.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1726850228111,
+                "title": "Awesome-docker（Docker 资源和项目的精选列表）",
+                "icon": "https://logo.clearbit.com/awesome-docker.netlify.app",
+                "url": "https://awesome-docker.netlify.app/"
+              },
+              {
+                "type": "link",
+                "addDate": 1726942080933,
+                "title": "Docker-是羊刀仙啊",
+                "icon": "https://logo.clearbit.com/blog.ydxian.xyz",
+                "url": "https://blog.ydxian.xyz/categories/docker"
+              },
+              {
+                "type": "link",
+                "addDate": 1726940713485,
+                "title": "Docker集_羊刀仙",
+                "icon": "https://logo.clearbit.com/post.smzdm.com",
+                "url": "https://post.smzdm.com/xilie/119240/"
+              },
+              {
+                "type": "link",
+                "addDate": 1726849911836,
+                "title": "MyIP/README_ZH.md at main · jason5ng32/MyIP",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/jason5ng32/MyIP/blob/main/README_ZH.md"
+              },
+              {
+                "type": "link",
+                "addDate": 1726850268763,
+                "title": "NginxProxyManager/nginx-proxy-manager：用于管理 Nginx 代理主机的 Docker 容器，具有简单而强大的界面",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/NginxProxyManager/nginx-proxy-manager"
+              },
+              {
+                "type": "link",
+                "addDate": 1726939531370,
+                "title": "很强！Docker部署反向代理神器：Nginx Proxy Manager_网络存储_什么值得买",
+                "icon": "https://logo.clearbit.com/post.smzdm.com",
+                "url": "https://post.smzdm.com/p/apm7x4g7/"
+              },
+              {
+                "type": "link",
+                "addDate": 1726850278314,
+                "title": "Eliasgranderubio/DAGDA：一种对已知漏洞、特洛伊木马、病毒、恶意软件和其他恶意威胁进行静态分析的工具，用于监控Docker守护进程和正在运行的Docker容器以检测异常活动。",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/eliasgranderubio/dagda"
+              },
+              {
+                "type": "link",
+                "addDate": 1726850317967,
+                "title": "factorish/proxy：基于 nginx 的轻量级负载均衡器，使用 Registrator 提供的服务发现。",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/factorish/proxy"
+              },
+              {
+                "type": "link",
+                "addDate": 1726936007041,
+                "title": "hywax/mafl：简约灵活的主页",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/hywax/mafl?tab=readme-ov-file"
+              },
+              {
+                "type": "link",
+                "addDate": 1726936054607,
+                "title": "马夫尔",
+                "icon": "https://logo.clearbit.com/mafl.hywax.space",
+                "url": "https://mafl.hywax.space/"
+              },
+              {
+                "type": "link",
+                "addDate": 1726938328079,
+                "title": "用Docker自托管11 个爆款开源 SaaS",
+                "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+                "url": "https://mp.weixin.qq.com/s/ii4HeMjJO29qSEdjfj1kAw"
+              },
+              {
+                "type": "link",
+                "addDate": 1726938108861,
+                "title": "11 个开源 SaaS 杀手 — 使用 Docker 自托管 |由 Harendra |9 月， 2024 |开发天才",
+                "icon": "https://logo.clearbit.com/blog.devgenius.io",
+                "url": "https://blog.devgenius.io/11-open-source-saas-killer-selfhost-with-docker-034456653568"
+              },
+              {
+                "type": "link",
+                "addDate": 1726937950966,
+                "title": "Nextcloud",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/nextcloud"
+              },
+              {
+                "type": "link",
+                "addDate": 1726937969031,
+                "title": "个人网盘来了！Nextcloud AIO保姆级部署攻略_网络存储_什么值得买",
+                "icon": "https://logo.clearbit.com/post.smzdm.com",
+                "url": "https://post.smzdm.com/p/a2x30e57/"
+              },
+              {
+                "type": "link",
+                "addDate": 1726938209168,
+                "title": "吉西",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/jitsi"
+              },
+              {
+                "type": "link",
+                "addDate": 1726938220586,
+                "title": "自托管指南 - Docker |Jitsi Meet",
+                "icon": "https://logo.clearbit.com/jitsi.github.io",
+                "url": "https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-docker/"
+              },
+              {
+                "type": "link",
+                "addDate": 1726830206137,
+                "title": "xitanggg/open-resume：OpenResume 是一款功能强大的开源简历生成器和简历解析器。https://open-resume.com/",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/xitanggg/open-resume"
+              },
+              {
+                "type": "link",
+                "addDate": 1726830140090,
+                "title": "OpenResume - 免费的开源简历生成器和解析器",
+                "icon": "https://logo.clearbit.com/www.open-resume.com",
+                "url": "https://www.open-resume.com/"
               }
             ]
           }
@@ -22939,6 +23065,20 @@
                 ]
               },
               {
+                "type": "folder",
+                "addDate": 1726844072832,
+                "title": "SSMS",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1718710584663,
+                    "title": "下载 SQL Server Management Studio (SSMS) - SQL Server Management Studio (SSMS) | Microsoft Learn",
+                    "icon": "https://logo.clearbit.com/learn.microsoft.com",
+                    "url": "https://learn.microsoft.com/zh-cn/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16"
+                  }
+                ]
+              },
+              {
                 "type": "link",
                 "addDate": 1718346641681,
                 "title": "sqlserver嵌入式和授权版区别 - CSDN文库",
@@ -22958,13 +23098,6 @@
                 "title": "SQL SERVER 2022安装详细教程（纯小白向） - xunjing2 - 博客园",
                 "icon": "https://logo.clearbit.com/www.cnblogs.com",
                 "url": "https://www.cnblogs.com/xunjing2/p/17120509.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1718710584663,
-                "title": "下载 SQL Server Management Studio (SSMS) - SQL Server Management Studio (SSMS) | Microsoft Learn",
-                "icon": "https://logo.clearbit.com/learn.microsoft.com",
-                "url": "https://learn.microsoft.com/zh-cn/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16"
               },
               {
                 "type": "link",
@@ -23999,6 +24132,41 @@
           },
           {
             "type": "folder",
+            "addDate": 1713514791677,
+            "title": "Kingdee Cloud",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1705052612108,
+                "title": "企业账号中心-我的企业",
+                "icon": "https://logo.clearbit.com/account.kdcloud.com",
+                "url": "https://account.kdcloud.com/main"
+              },
+              {
+                "type": "link",
+                "addDate": 1634875651622,
+                "title": "金蝶云平台 - 企业平台",
+                "icon": "https://logo.clearbit.com/cloud.kingdee.com",
+                "url": "https://cloud.kingdee.com/qy/product/proInfo?tid=823549&prod_inst_code=1446951986abbf7ec9a468ae9dfaffee"
+              },
+              {
+                "type": "link",
+                "addDate": 1711013731270,
+                "title": "金蝶云星瀚",
+                "icon": "https://logo.clearbit.com/cosmic-pro.piaozone.com",
+                "url": "https://cosmic-pro.piaozone.com/ierp/?userId=Guest&formId=new_activate_order_link&query_type=2"
+              },
+              {
+                "type": "link",
+                "addDate": 1713514796506,
+                "title": "金蝶云星空开放平台",
+                "icon": "https://logo.clearbit.com/open.kingdee.com",
+                "url": "https://open.kingdee.com/K3Cloud/Open/home"
+              }
+            ]
+          },
+          {
+            "type": "folder",
             "addDate": 1719032236451,
             "title": "Kingdee Document",
             "children": [
@@ -24784,7 +24952,7 @@
           {
             "type": "folder",
             "addDate": 1721483201399,
-            "title": "自建Docker",
+            "title": "Docker",
             "children": [
               {
                 "type": "link",
@@ -24834,6 +25002,20 @@
                 "title": "HivisionIDPhotos",
                 "icon": "https://logo.clearbit.com/121.15.211.188",
                 "url": "http://121.15.211.188:7860/"
+              },
+              {
+                "type": "link",
+                "addDate": 1726851673337,
+                "title": "IPCheck.ing - 查看我的 IP 地址 - 查询本机 IP 地址及归属地 - 查看 WebRTC 连接 IP - DNS 泄露检测 - 网速测试 - Jason Ng 阿禅开源作品",
+                "icon": "https://logo.clearbit.com/121.15.211.188",
+                "url": "http://121.15.211.188:18966/"
+              },
+              {
+                "type": "link",
+                "addDate": 1726936142582,
+                "title": "My Home Page",
+                "icon": "https://logo.clearbit.com/121.15.211.188",
+                "url": "http://121.15.211.188:3200/"
               }
             ]
           },
@@ -24993,6 +25175,27 @@
                         "url": "https://demo-cloudflare-imgbed.pages.dev/"
                       }
                     ]
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1726846827267,
+                    "title": "网站图标生成器可在所有浏览器上提供完美图标",
+                    "icon": "https://logo.clearbit.com/realfavicongenerator.net",
+                    "url": "https://realfavicongenerator.net/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1726846944044,
+                    "title": "首页 |仅文档",
+                    "icon": "https://logo.clearbit.com/just-the-docs.com",
+                    "url": "https://just-the-docs.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1726847759400,
+                    "title": "Simple Icons（图标库）",
+                    "icon": "https://logo.clearbit.com/simpleicons.org",
+                    "url": "https://simpleicons.org/zh-CN/"
                   }
                 ]
               },
@@ -25242,6 +25445,20 @@
             "title": "🐶❤️🦀 | Eric",
             "icon": "https://logo.clearbit.com/zh.mojotv.cn",
             "url": "https://zh.mojotv.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1726942140734,
+            "title": "是羊刀仙啊",
+            "icon": "https://logo.clearbit.com/blog.ydxian.xyz",
+            "url": "https://blog.ydxian.xyz/"
+          },
+          {
+            "type": "link",
+            "addDate": 1726940364556,
+            "title": "羊刀仙的个人主页| 什么值得买",
+            "icon": "https://logo.clearbit.com/zhiyou.smzdm.com",
+            "url": "https://zhiyou.smzdm.com/member/2057356498/"
           }
         ]
       },
